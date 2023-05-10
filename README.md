@@ -1,0 +1,3 @@
+This code is designed to create extremely strong passwords or transform normal words into strong passwords.
+The 'generate()' function creates an 18 character long password, or the specified length from random characters.
+The 'conversion()' function takes a text input, such as a word you are familiar with, and converts into a stronger password by adding capitals, symbols, and numbers. It also converts some common letters into look-alike characters, randomly. Most words go from being 'weak' to 'strong' with a password strength checker. In changing the amount of integers and symbols wanted, or the length of the input you can control the strength more.
